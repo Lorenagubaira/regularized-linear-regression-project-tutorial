@@ -19,5 +19,6 @@
 	"duration" : 2,
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     	"projectType": "project"
-	"autoPlay": "false",
+	"autoPlay": false,
+	"gitpod": true
 }
